@@ -1,0 +1,20 @@
+1-¿Cómo influye el entendimiento del ciclo de vida de un componente en React en el desarrollo y mantenimiento de una aplicación?
+a) No tiene impacto en el desarrollo de la aplicación.
+b) Permite desarrollar aplicaciones eficientes y optimizar el rendimiento.
+c) Solo es útil para desarrolladores principiantes.
+d) React se encarga automáticamente del ciclo de vida, por lo que no es necesario entenderlo.
+Respuesta correcta: b)
+
+2-¿Qué prácticas recomendadas podrían implementarse para optimizar el manejo del estado y ciclo de vida de los componentes en un proyecto de React?
+a) No es necesario preocuparse por el manejo del estado y ciclo de vida de los componentes en React.
+b) Implementar técnicas como la memorización de componentes y la gestión eficiente del estado.
+c) React se encarga automáticamente de manejar el estado y ciclo de vida, por lo que no hay prácticas recomendadas.
+d) Utilizar únicamente clases en lugar de funciones para los componentes.
+Respuesta correcta: b) 
+
+3-Considerando la analogía de la planta, ¿cómo podríamos aplicar estrategias de cuidado y atención específicas a cada etapa del ciclo de vida de un componente de React para mejorar la eficiencia y la experiencia del usuario en una aplicación?
+a) La analogía de la planta no tiene relación con el ciclo de vida de un componente en React.
+b) Aplicar estrategias de cuidado y atención solo en la etapa de montaje del componente.
+c) Entender y aplicar estrategias adecuadas en cada etapa del ciclo de vida del componente.
+d) Aplicar estrategias de cuidado y atención solo en la etapa de desmontaje del componente.
+Respuesta correcta: c) 
